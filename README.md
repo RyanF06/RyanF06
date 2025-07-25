@@ -28,7 +28,7 @@ Welcome to my GitHub! This is where I showcase my projects in **cybersecurity**,
 
 ## 📫 Contact Me
 
-- Email: [ryanfelixtb@gmail.com]
+- Email: ryanfelixtb@gmail.com
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - GitHub: [github.com/ryan](https://github.com/ryan)
 
