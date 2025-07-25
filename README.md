@@ -8,8 +8,10 @@ Welcome to my GitHub! This is where I showcase my projects in **cybersecurity**,
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [🔐 Two-Factor Authentication Simulator](https://github.com/your-username/two-factor-auth-simulator) | A simulation of a two-device-based 2FA system built with Python. | Python, Sockets, Linux |
 | [🛡️ SOC Analyst Lab Project](https://github.com/your-username/soc-analyst-lab) | Simulated attacks and detections using Splunk to train for a SOC role. | Splunk, Kali Linux, Ubuntu |
 | [📱 Secure QR Scanner App](https://github.com/your-username/secure-qr-scanner) | A QR scanner with unsafe URL detection, history, and sandbox alerts. | Android, Java/Kotlin |
+| [🕵️‍♂️ Metasploit & Netcat Playground](https://github.com/your-username/metasploit-lab) | Penetration testing lab simulating attacks using Metasploit. | Kali Linux, Netcat, Crunch |
 
 > 👉 More projects in the [Repositories](https://github.com/your-username?tab=repositories) tab!
 
@@ -35,4 +37,5 @@ Welcome to my GitHub! This is where I showcase my projects in **cybersecurity**,
 ## ⭐ A Note
 
 Thanks for stopping by! Feel free to explore my work, fork projects, or connect. I’m always learning, building, and open to collaboration.
+
 
